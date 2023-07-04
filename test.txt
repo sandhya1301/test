@@ -1,0 +1,88 @@
+1. type variableName = value;
+2. no
+3. yes
+4.NO
+5.retrieve the input
+6.yes
+7.yes
+8.no
+9.dataType [ ] nameOfArray; dataType :
+
+10. output 0
+
+11.save the file in .java ,compile with javac compilar ,then byte code is converted into machine level code 
+
+12.javac -it is a java compiler that compiles the java program 
+   java - it is a object oriented programming language
+
+13.classloader is a part of JRE. 
+
+14.
+
+15.java is not pure object oriented programming language because
+        a.continuous memory allocation
+	b.fixed size
+	c.insertion and deletion
+	d.inefficient search
+
+16.JDK(java development kit) it is a kit which provide the tools, libraries,and component to run the java program.
+   JRE(java Runtime Environment) it is a software package which provides necessary runtime environment to run java program.
+   JVM(java virtual machine) it is a component of java platform which acts as java runtime environment for executing java bytecode.
+
+17.<init>
+
+18.yes
+
+19.bytecode
+
+20.
+
+21.JVM : * It is known as Java Virtual Machine .
+         * it is a component of java platform .
+ 	 * it acts as java runtime environment for executing java bytecode
+
+22.A class member is declared with an access modifier to specify how it is accessed by the other classes in Java.
+    access modifiers- public, protected, default and private.
+
+23.Arguements :	formal arguement
+                Actual arguement 
+
+
+25.varibles: variables is used to store the data and then give them a name so that can referenced with in a program.
+	
+26.RAM
+
+27.To initialize a variable is to give it a correct initial value
+
+28.because it is a strongly typed language.
+
+29.string ,int ,float,char ,boolean
+
+30.tasks of JVM - it acts as java runtime environment for executing java bytecode.
+
+31.The variable defined within a block will not be accessible from outside the block.
+
+32.Write once run anywhere 
+
+33.java version; 
+
+34.java20
+
+35.class is defined as blueprint of object 
+
+36. object is defined as instance of class 
+
+37. class NameOfClass { } 
+
+38.Car car = new Car()
+
+39.Constructor in java is used to create the instance of the class
+
+
+
+
+
+
+
+
+
