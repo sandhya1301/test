@@ -1,0 +1,99 @@
+1. d. Maternal Uncle 
+2. b. Grand Father
+3. b. cousin 
+4. c. father
+5. a. son-in-law
+6. a. X*A+Y
+7. c. R
+8.a brother
+9.a father
+10. c S	
+11. a.10
+12. d.west
+13. b.south-east
+14. a. west
+
+JAVA SECTION 
+
+1. True
+2. 10, 110
+3. True
+4.JVM can call it without creating an instance of the class containing the main()
+
+
+5.public class ReverseArray {  
+    public static void main(String[] args) {  
+     
+        int [] arr = new int [] {10,45,7,9,2};  
+        System.out.println("Original array: ");  
+        for (int i = 0; i < arr.length; i++) {  
+            System.out.print(arr[i] + " ");  
+        }  
+        System.out.println();  
+        System.out.println("Array in reverse order: ");  
+       
+        for (int i = arr.length-1; i >= 0; i--) {  
+            System.out.print(arr[i] + " ");  
+        }  
+    }  
+
+
+7. Done
+
+8.this keyword refers to the current object
+this() is used to call one constructor from the other of the same class.
+
+9.public class SwapNumbers {
+    public static void main(String[] args) {
+        float a = 1.2, b = 2.4;
+        System.out.println("Before swap");
+        System.out.println("First number = " + a);
+        System.out.println("Second number = " + b);
+	
+	float temporary = a
+	a = b;
+	second = temporary;
+	System.out.println("After swap");
+        System.out.println("First number = " + a);
+        System.out.println("Second number = " + b);
+    }
+}
+
+
+
+10. public class PatternPrint {
+    public static void main(String[] args) {
+        System.out.println("&           &");
+        System.out.println("        &");
+        System.out.println("&           &");
+    }
+}
+
+
+
+public class PatternPrint {
+    public static void main(String[] args) {
+        System.out.println("%         %           %");
+        System.out.println("%         &           % ");
+        System.out.println("%         %           %");
+    }
+}
+
+
+
+public class PatternPrint {
+    public static void main(String[] args) {
+        System.out.println("%         %           %");
+        System.out.println("%                    % ");
+        System.out.println("%         %           %");
+    }
+}
+
+
+
+
+
+
+
+
+
